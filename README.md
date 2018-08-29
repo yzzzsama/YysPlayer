@@ -1,4 +1,4 @@
-# Retrofit2use
+# YysPlayer
 最近沉迷阴阳师,所以动手随便写了个式神信息查询的APP,算是为平安京做点什么吧.<br>
 数据源来自18183,仅供学习通途,侵删.	<br>
 开源框架集:butterknife,jsoup,retrofit,glide,rxjava,RongIM等..<br>
