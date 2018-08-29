@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.HomeActivity">
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/btn_select"
+        android:text="ssr"/>
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_select"
+        android:layout_gravity="center"
+        android:text="sr"/>
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_select"
+        android:layout_gravity="center"
+        android:text="r"/>
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_select"
+        android:layout_gravity="center"
+        android:text="n"/>
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_select"
+        android:layout_gravity="center"
+        android:text="开始聊天"/>
+
+</LinearLayout>

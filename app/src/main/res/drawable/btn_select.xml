@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 按下去的时候，显示的图片  -->
+    <item android:drawable="@drawable/btn_shape_down" android:state_pressed="true"></item>
+    <!--正常情况下显示图片  -->
+    <item android:drawable="@drawable/btn_shape_up"></item>
+
+</selector>
